@@ -133,10 +133,11 @@ And deploy the code to the hardware. Open the Serial monitor and test the object
 
 ## Troubleshooting
 
+If you have any questions feel free to ask in the [Edge Impulse forum](https://forum.edgeimpulse.com) or in the [Edge Impulse Discord channel](https://www.edgeimpulse.com/blog/announcing-the-edge-impulse-developers-discord-server/#:~:text=this%20invite%20link%3A-,Edge%20Impulse%20Developers,-What%20is%20Discord).
 
 ## Attribution
 
-* This project is in part working thanks of the work of Marcelo Rovai. Check his courses about [image classification](https://harvard-edge.github.io/cs249r_book/contents/labs/seeed/xiao_esp32s3/image_classification/image_classification.html) to learn more.
+* This project is in part working thanks of the work of Marcelo Rovai. Check his courses about [image classification](https://harvard-edge.github.io/cs249r_book/contents/labs/seeed/xiao_esp32s3/image_classification/image_classification.html) or [here](https://mjrovai.github.io/XIAO_Big_Power_Small_Board-ebook/chapter_4-4.html) to learn more.
 
 * Also thanks to the [Seeed Studio documentation](https://wiki.seeedstudio.com/xiao_esp32s3_keyword_spotting/#getting-started), [Xiao ESP32S3 Sense documentation](https://docs.edgeimpulse.com/hardware/boards/seeed-xiao-esp32s3-sense) and tutorial such as this about [Fruit ripeness detection using Seeed Studio Xiao ESP32S3 Sense camera and Edge Impulse machine learning](https://markelthinkslearnscreates.wordpress.com/2025/02/14/fruit-ripeness-detection-using-seed-studio-xiao-esp32s3-sense-camera-and-edge-impulse-machine-learning/).
 
