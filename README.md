@@ -47,8 +47,6 @@ Now we will deploy the Camera Server example in the device in order to take imag
 
 Go to File > Examples > ESP32 > Camera > CameraWebServer and click.
 
-<img width="800" alt="Go to File > Examples > ESP32 > Camera > CameraWebServer and click" src="https://github.com/user-attachments/assets/09e4f72d-0cfe-4c13-bffe-4fedd44e1af3" />
-
 The new application will be opened in a new Arduino IDE window. Change the `ssid` and `password` credentials in the initial lines of the application to connect to your local WiFi.
 
 <img width="800" alt="Change the `ssid` and `password` in the initial lines of the application to connect to your local WiFi" src="https://github.com/user-attachments/assets/cf3c965e-44b8-4e41-9846-a044f2d1b7b9" />
@@ -127,7 +125,9 @@ Add the XIAO ESP32S3 Camera pin definition.
 #define PCLK_GPIO_NUM     13
 ```
 
-And deploy the code to the hardware. Open the Serial monitor and test the objects detected.
+Remember to go to Tools > PSRAM and select `OPI PSRAM` instead of Disabled as this device is going to use the OPI PSRAM.
+
+And finally deploy the code to the hardware. Open the Serial monitor and test the objects detected.
 
 <img width="547" height="84" alt="Captura de pantalla 2025-09-15 a les 15 22 16" src="https://github.com/user-attachments/assets/699a9244-d2c2-4529-a031-7b37623f64f0" />
 
