@@ -34,13 +34,12 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 Afterwards go to the Boards Manager and install the `ESP32` by Espressif Systems library. This is important, install the latest version (in my case the 3.3.0) if the Xiao ESP32S3 is the version 1.1. If your hardware is the v1.0 install the ESP32 library version 2.0.7.
 
-<img width="800" alt="Captura de pantalla 2025-09-12 a les 14 16 35" src="https://github.com/user-attachments/assets/142dd43e-7e5a-4e16-bfad-824d76af6273" />
-
 Then go to Tools > Board > esp32 > Xiao_ESP32S3
 
-<img width="800" alt="Tools > Board > esp32 > Xiao_ESP32S3" src="https://github.com/user-attachments/assets/a845e1cd-56e4-4840-bf60-e96b34548f16" />
-
 Then you should be able to select your device from the Arduino IDE. Select the `XIAO_ESP32S3` from the devices selector.
+
+<img width="800" alt="Captura de pantalla 2025-09-12 a les 14 16 35" src="https://github.com/user-attachments/assets/142dd43e-7e5a-4e16-bfad-824d76af6273" />
+
 
 #### Install the Camera Server example
 
