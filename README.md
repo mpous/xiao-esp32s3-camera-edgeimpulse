@@ -15,7 +15,7 @@ This is part of the [IoT Barcelona meetup workshop from September 2025](https://
 
 ### Software
 
-* [Arduino IDE](https://www.arduino.cc/en/software/)
+* [Arduino IDE](https://www.arduino.cc/en/software/) (latest version or Version: 2.3.6)
 * [Edge Impulse free account](https://studio.edgeimpulse.com/signup?utm_medium=live_event&utm_source=conference&utm_campaign=21157154-new-user-acquisition_fall2025&utm_content=iotmeetup-github-tutorial)
 
 ## Train the Machine Learning model
