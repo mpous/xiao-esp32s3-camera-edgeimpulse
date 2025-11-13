@@ -1,6 +1,8 @@
 # Hands-on Workshop Deploy Edge AI ML model Seeed Xiao ESP32s3 camera with Edge Impulse
 
-This is a project that trains and deploy an object detection machine learning model to a Seeed Studio Xiao ESP32S3 Sense using Edge Impulse. 
+This is a workshop that trains and deploy an object detection machine learning model in a Seeed Studio Xiao ESP32S3 Sense using Edge Impulse. 
+
+You can find the slides [here](https://github.com/mpous/Talks/tree/master/2025_IoT_Barcelona_Handson_workshop_seeedstudio_EdgeImpulse).
 
 This is part of the [IoT Barcelona meetup workshop from September 2025](https://www.meetup.com/iotbarcelona/events/310847002/).
 
@@ -14,6 +16,8 @@ And this is also part of the [IoT Orange County meetup workshop from November 20
 * [Seeed Studio Xiao ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 * Micro SD Card
 * USB-C cable
+* Your own laptop/computer
+
 
 ### Software
 
