@@ -24,7 +24,7 @@ And this is also part of the [IoT Orange County meetup workshop from November 20
 
 ## Train the Machine Learning model
 
-The first step in training a machine learning model is gathering data. In this workshop, we will train the model to detect Edge Impulse socks or rubber ducks among other objects on a table.
+The first step in training a machine learning model is gathering data. In this workshop, we will train the model to detect Edge Impulse socks, apples or rubber ducks among other objects on a table.
 
 Important: For the best results, always train your model using the exact camera you will deploy in production and in the same conditions where the camera will be deployed. Here, that means the Xiao ESP32S3 Sense from Seeed Studio. However you can follow this workshop using your phone's camera (as Edge Impulse Studio supports mobile capture too).
 
@@ -97,7 +97,7 @@ Now decide the ressolution that you want and click `Start stream`. My recommenda
 
 Add the objects that you want to use to train the Machine Learning model in front of the camera and click `Save` to save locally in your computer the images taken from the stream. 
 
-Once you will have collected multiple images (50-100) from the objects that you want to detect (in my case Edge Impulse socks VS Seeed Studio Xiao plastic bags or Rubber Ducks) you can stop the application.
+Once you will have collected multiple images (50-100) from the objects that you want to detect (in my case Edge Impulse socks, apples or Rubber Ducks) you can stop the application.
 
 
 ## Train and Deploy the Machine Learning model
